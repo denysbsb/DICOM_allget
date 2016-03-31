@@ -1,0 +1,59 @@
+[
+	{
+		"id":"1",
+		"nome":"Denys Fontenele",
+		"rg":"2717380",
+		"laudos":[
+			{
+				"data":"22/03/2016",
+				"medico":"dr chapatim",
+				"texto":"doido de pedra"
+			},
+			{
+				"data":"23/03/2016",
+				"medico":"dr chapatim",
+				"texto":"joga pedra nos outros"
+			}
+		],
+		"exames":[
+			{
+				"exame":"urologia",
+				"data":"21/03/2016",
+				"medico":"dr. chapatim",
+				"imagens":[
+					{
+						"dicom1":"imagem.jpg",
+						"dicom2":"imagem2.jpg",
+						"dicom3":"imagem3.jpg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id":"2",
+		"nome":"Mayke Araujo",
+		"rg":"34455666",
+		"laudos":[
+			{
+				"data":"06/01/2016",
+				"medico":"dr chapatim",
+				"texto":"viadagem aguda"
+			}
+		],
+		"exames":[
+			{
+				"exame":"raio-x do pescoço",
+				"data":"08/03/2016",
+				"medico":"dr. chapatim",
+				"imagens":[
+					{
+						"dicom1":"pescoco.jpg",
+						"dicom2":"pescoco2.jpg"
+					}
+				]
+			}
+		]
+	}
+	
+]
